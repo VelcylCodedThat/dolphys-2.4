@@ -27,6 +27,9 @@ usage
 import requirements.txt
 run the program and select an option from the menu to use the corresponding feature
 
+
+license
+---
 licensed under GNU General Public License v3.0
 
 
