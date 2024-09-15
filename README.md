@@ -35,4 +35,4 @@ licensed under GNU General Public License v3.0
 disclaimer:
 ----
 
- currency tables may be inaccurate. please use at your own risk.
+ currency tables may be inaccurate. please use at your own risk. (ill update it soon)
